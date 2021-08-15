@@ -1,8 +1,9 @@
 import { useState } from "react";
-import Button from "./components/Button"
 import app from "./app.css";
-import Input from "./components/Input";
-import Clear from "./components/Clear";
+import Button from "./Button"
+
+import Input from "./Input";
+import Clear from "./Clear";
 import * as math from "mathjs";
 
 
