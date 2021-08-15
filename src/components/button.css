@@ -1,0 +1,21 @@
+.numberButton{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #FCDEC0;
+   font-size: 2em;
+   height:2em;
+   color:black;
+  
+   outline: 1px solid #000;
+   flex:1;
+   cursor: pointer;
+   
+}
+
+.operatorButton{
+    background-color: #E5B299;
+    font-weight: bold;
+}
+
+

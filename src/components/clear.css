@@ -1,0 +1,12 @@
+.clr-button{
+    display:flex;
+    flex:1;
+    background-color: #AC0C0C;
+    font-size: 1.5em;
+    color:#fff;
+    padding:0.5em;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
